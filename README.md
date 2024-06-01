@@ -78,7 +78,9 @@ I added 2 extra calculated columns to show the “AvgPricePerModel” & “Price
 
 ![Fuel Distribution chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/c117fe4e-f60b-432a-b499-471b46c39bb8)
 
-* The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, prices decreases
+* The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, price increases.
+
+![Mileage and Price Chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/6f685897-e9ba-4721-a313-bd0a83da1ec7)
 
 * The relationship between price and road tax is inconsistent as depicted in the line chart and this confirms that road tax does not have any significant impact on the price of cars
 
