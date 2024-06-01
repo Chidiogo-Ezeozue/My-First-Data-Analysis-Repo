@@ -72,7 +72,11 @@ I added 2 extra calculated columns to show the “AvgPricePerModel” & “Price
 
 * Mercedes has the highest average price of £25k followed by C Class, Audi, BMW, BW, Skoda, Focus, Hyundi, Toyota, Ford, and Vauxhall with lowest average of  £10k
 
+![Uk Brands Chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/581846ba-b4ba-40ea-b4d4-3362244aa8f7)
+
 * Petrol is the most used fuel type by 48.85% followed by diesel, hybrid, and others while electronic is the least used fuel type showing extremely low significance in the distribution
+
+![Fuel Distribution chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/c117fe4e-f60b-432a-b499-471b46c39bb8)
 
 * The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, prices decreases
 
