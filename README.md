@@ -84,6 +84,32 @@ I added 2 extra calculated columns to show the “AvgPricePerModel” & “Price
 
 * The relationship between price and road tax is inconsistent as depicted in the line chart and this confirms that road tax does not have any significant impact on the price of cars
 
+![Price and tax chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/97557877-9fef-4b3f-9af9-1c5694e1daf7)
+
+* The price of cars hit its peak in 2019 and declined in 2020, while mileage hit its peak in 2017 and declined in 2020
+
+![Price and Mileage Chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/3949986e-2623-4b7f-8880-490a40b0636c)
+
+* The top 5 oldest models are M Class, Zafia, C Class, 5 Series, Escort
+
+![Older Models Chart](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/fd3c3588-5cf2-44bb-afd7-11a49806e134)
+
+* The top 5 newer models are Camry, Corolla, Fiesta, Hilux, and X Class
+
+![Newer Models](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/4e4b9ffe-f832-42f1-a1b7-de0e53380b79)
+
+* With recent car inventions, Semi automatic and automatic transmissions are  taking over the manual form of transmission as shown in the chart. Reason being that it has proven to be more convenient and user friendly
+
+This further indicates that transmission has a significant impact in price with semi auto having the highest percentage of price.
+
+![Percentage by transmission](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/77a9f664-d872-4981-9dc7-5a1803b7ac7f)
+
 
 -------
 # Recommendation
+
+
+
+
+
+
