@@ -110,11 +110,11 @@ This further indicates that transmission has a significant impact in price with 
 
 * Sellers should a broader focuse on luxury models like Mercedez, Cclass, Audi, etc., as it has updated technology and yields higher capital for turn over.
 
-* Sellers should ensure consistent availability of brands cheaper like Toyota and Ford because they are more affordable, hence, accessible to a wide range of buyers. These cars typically have lower maintenance, making them more economical to own and operate.
+* Sellers should ensure consistent availability of cheaper brands like Toyota and Ford because they are more affordable, hence, accessible to a wide range of buyers. These cars typically have lower maintenance, making them more economical to own and operate.
 
-* High budget buyers should consider going for luxury cars
+* High budget buyers should consider going for luxury cars like Mercedez, Cclass, Audi, and BMW.
 
-* Lower budget buyers should consider cheaper brands for economic balance
+* Lower budget buyers should consider cheaper brands like Toyota, Ford, and Vauxhall for economic balance
 
 Luxury cars often boast cutting-edge features and technologies that  enhance user experience.
 
