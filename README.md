@@ -8,7 +8,21 @@ This is a Power BI project that conveys analysis of 100k UK Used Cars and the da
 The purpose of this project is to study the correlation between the features and the target variable, and their significant impact in the selling price of cars
 
 -------
+# Skills demonstrated
+* Data Cleaning & Transformation
+
+* Data Visualization
+
+* DAX and Calculated Measures
+
+* Filters and Tooltips
+
+* Attention to Details
+
+* Problem Solving
+-------
 # Problem Statement
+
 
 
 
