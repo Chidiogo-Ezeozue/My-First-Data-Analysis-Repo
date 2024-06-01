@@ -57,5 +57,27 @@ I changed the data types, renamed headers and added “ageofcar” Column from �
 
 I added 2 extra calculated columns to show the “AvgPricePerModel” & “PricePerMileage”.
 
+![2 Columns for UK cars](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/135824a3-9a66-46d1-bc07-eb50305a2249)
+
 ------
-# Findings and Recommendation
+# Findings
+
+* There are 11 brands and 195 models in the dataset
+
+* The average price of cars is  £16,863k
+
+* The average mileage is 23,220 miles
+
+* The average age of cars is 7 years
+
+* Mercedes has the highest average price of £25k followed by C Class, Audi, BMW, BW, Skoda, Focus, Hyundi, Toyota, Ford, and Vauxhall with lowest average of  £10k
+
+* Petrol is the most used fuel type by 48.85% followed by diesel, hybrid, and others while electronic is the least used fuel type showing extremely low significance in the distribution
+
+* The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, prices decreases
+
+* The relationship between price and road tax is inconsistent as depicted in the line chart and this confirms that road tax does not have any significant impact on the price of cars
+
+
+-------
+# Recommendation
