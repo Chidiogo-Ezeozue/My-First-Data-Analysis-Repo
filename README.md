@@ -51,7 +51,11 @@ https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
 # Data Cleaning/Transformation
 The Power BI  folder connector was used to import all the files in a folder at once into the power query editor. I embarked on cleaning the data thoroughly by removing duplicates, nulls, and blanks. I also removed 2 extremely dirty files from the folder since there is a clean version of the 2 brands in the folder. 
 
-In the transformation, I changed data types, renamed headers and added “ageofcar” Column from “year”. After that, I loaded my data into Power BI, added 2 extra calculated columns (“AvgPricePerModel” & “PricePerMileage”), and began the exploration.
+I changed the data types, renamed headers and added “ageofcar” Column from “year”. After that, I loaded my data into Power BI. 
+
+![100k Uk Used Cars Data Image](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/9988cd22-9182-41d1-8c79-ce4e5a9c3fd9)
+
+I added 2 extra calculated columns to show the “AvgPricePerModel” & “PricePerMileage”.
 
 ------
 # Findings and Recommendation
