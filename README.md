@@ -1,14 +1,14 @@
 # 100k UK Used Cars Analysis
-# ![100k UK Used Cars 1](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/96200de3-8e13-4ad7-80d1-4a7a8ad7e028)
+# ![]()
 
 -------
-# Introduction
+## Introduction
 This is a Power BI project that conveys analysis of 100k UK Used Cars and the dataset contains information of brand, model, year, price, transmission, mileage, fuel type, tax, miles per gallon (mpg),  and engine size. The dataset housed 13 csv files corresponding to each car manufacturer. 
 
 The purpose of this project is to study the correlation between the features and the target variable, and their significant impact in the selling price of cars
 
 -------
-# Skills demonstrated
+### Skills demonstrated
 * Data Cleaning & Transformation
 
 * Data Visualization
@@ -53,11 +53,11 @@ The Power BI  folder connector was used to import all the files in a folder at o
 
 I changed the data types, renamed headers and added “ageofcar” Column from “year”. After that, I loaded my data into Power BI. 
 
-![100k Uk Used Cars Data Image](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/9988cd22-9182-41d1-8c79-ce4e5a9c3fd9)
+![](cleaned_data.PNG)
 
 I added 2 extra calculated columns to show the “AvgPricePerModel” & “PricePerMileage”.
 
-![2 Columns for UK cars](https://github.com/Chidiogo-Ezeozue/My-First-Data-Analysis-Repo/assets/161604924/135824a3-9a66-46d1-bc07-eb50305a2249)
+![](calculated_columns.PNG)
 
 ------
 # Findings
@@ -106,7 +106,7 @@ This further indicates that transmission has a significant impact in price with 
 
 
 -------
-# Recommendation
+# _Recommendation_
 
 * Sellers should a broader focuse on luxury models like Mercedez, Cclass, Audi, etc., as it has updated technology and yields higher capital for turn over.
 
@@ -116,7 +116,7 @@ This further indicates that transmission has a significant impact in price with 
 
 * Lower budget buyers should consider cheaper brands like Toyota, Ford, and Vauxhall for economic balance
 
-Luxury cars often boast cutting-edge features and technologies that  enhance user experience.
+_Luxury cars often boast cutting-edge features and technologies that  enhance user experience_.
 
 
 ![](THANKS.jpg)
