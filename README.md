@@ -120,7 +120,7 @@ Welcome Page                             |                             Summary  
 :----------------------------------------|----------------------------------------------------------------|----------------------------:
 ![](welcome_page.PNG)                    |                       ![](summary_page.PNG)                    |        ![](details_page.PNG) 
 
-### You can interact with the report [here]()
+### You can interact with the report [here](https://app.powerbi.com/groups/me/reports/51648ac4-8355-4d7b-8551-10d768e335f6/ReportSection?experience=power-bi)
 
 -------
 ## Recommendation
