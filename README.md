@@ -115,7 +115,7 @@ This further indicates that transmission has a significant impact in price with 
 ![](percentage_by_transmission.PNG)
 
 ## Visualization
-#### The report comprises of 3 pages
+### The report comprises of 3 pages
 Welcome Page                             |                             Summary                            |                     Details                                     
 :----------------------------------------|----------------------------------------------------------------|----------------------------:
 ![](welcome_page.PNG)                    |                       ![](summary_page.PNG)                    |        ![](details_page.PNG) 
