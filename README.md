@@ -119,7 +119,7 @@ This further indicates that transmission has a significant impact in price with 
 Luxury cars often boast cutting-edge features and technologies that  enhance user experience.
 
 
-
+![](THANKS.jpg)
 
 
 
