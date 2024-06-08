@@ -1,13 +1,13 @@
 # 100k UK Used Cars Analysis
   ![](welcome_page.PNG)
 
--------
+------
 ## Introduction
 This is a Power BI project that conveys analysis of 100k UK Used Cars and the dataset contains information of brand, model, year, price, transmission, mileage, fuel type, tax, miles per gallon (mpg),  and engine size. The dataset housed 13 csv files corresponding to each car manufacturer. 
 
 The purpose of this project is to study the correlation between the features and the target variable, and their significant impact in the selling price of cars
 
--------
+------
 ## Skills demonstrated
 * Data Cleaning & Transformation
 
