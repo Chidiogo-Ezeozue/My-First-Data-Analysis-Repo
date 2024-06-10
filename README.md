@@ -82,7 +82,7 @@ I added 2 extra calculated columns to show the “AvgPricePerModel” & “Price
 #### Fuel Distribution
 ![](fuel_distribution_chart.PNG)
 
-* The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, price increases.
+* The scatter plot indicates a positive correlation between price and mileage, that is, as mileage increases, price decreases.
 
 #### Mileage and Price
 ![](mileage_and_price_chart.PNG)
@@ -137,6 +137,8 @@ _Luxury cars often boast cutting-edge features and technologies that  enhance us
 
 
 ![](THANKS.jpg)
+
+### Thanks for getting here.
 
 
 
