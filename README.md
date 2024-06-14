@@ -125,7 +125,7 @@ Welcome Page                             |                             Summary  
 -------
 ## Recommendation
 
-* Sellers should a broader focuse on luxury models like Mercedez, Cclass, Audi, etc., as it has updated technology and yields higher capital for turn over.
+* Sellers should a have broader focus on luxury models like Mercedez, Cclass, Audi, etc., as it has updated technology and yields higher capital for turn over.
 
 * Sellers should ensure consistent availability of cheaper brands like Toyota and Ford because they are more affordable, hence, accessible to a wide range of buyers. These cars typically have lower maintenance, making them more economical to own and operate.
 
